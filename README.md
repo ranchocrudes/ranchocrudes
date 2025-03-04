@@ -5,6 +5,14 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://tenor.com/pt-BR/view/computer-cat-working-type-typing-gif-7817705.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Ranchocrudes/Ranchocrudes/output/snake.svg" alt="Snake animation" />
 
 ###
